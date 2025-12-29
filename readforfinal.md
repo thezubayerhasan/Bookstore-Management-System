@@ -1177,10 +1177,6 @@ const { user } = useContext(AppContext);
    └── Redirect to home page
 ```
 
----
-
-## Common Questions & Answers
-
 ### Database Questions
 
 **Q: What is the difference between CASCADE and SET NULL in foreign keys?**
@@ -1573,6 +1569,4 @@ This project demonstrates:
 - ✅ Transaction management
 - ✅ Modern React patterns
 
-**Remember**: Be confident, explain the flow clearly, and emphasize the **why** behind technical decisions, not just the **what**.
 
-Good luck with your defense! 🚀
