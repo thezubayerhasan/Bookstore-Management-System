@@ -8,7 +8,7 @@ const pool = mysql.createPool({
   host: process.env.DB_HOST || 'sample-data.popsql.io',
   user: process.env.DB_USER || 'demo',
   password: process.env.DB_PASSWORD || 'root',
-  database: process.env.DB_NAME || 'toha',
+  database: process.env.DB_NAME || 'boi_bookstore',
   port: process.env.DB_PORT || 3306,
   waitForConnections: true,
   connectionLimit: 10,
